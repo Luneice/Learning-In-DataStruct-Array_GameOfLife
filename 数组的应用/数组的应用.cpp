@@ -160,7 +160,7 @@ int main()
 			system("cls");
 		}
 		if (i % 10 == 0) {
-			//system("shutdown -s -t 0");//当循环十次时自动关闭电脑，可以让实验老师有点莫名其妙
+			//system("shutdown -s -t 0");//当循环十次时自动关闭电脑，可以让实验老师有点莫名其妙，亲自测试过没事
 		}
 	}
 	return 0;
